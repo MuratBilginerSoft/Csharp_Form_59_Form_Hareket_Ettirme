@@ -1,0 +1,24 @@
+C:\Users\mrt_b\Desktop\Blog\Dersler\Bilgi Kartı 11\Bilgi Kartı 11\bin\Debug\Bilgi Kartı 11.exe
+C:\Users\mrt_b\Desktop\Blog\Dersler\Bilgi Kartı 11\Bilgi Kartı 11\bin\Debug\Bilgi Kartı 11.pdb
+C:\Users\mrt_b\Desktop\Blog\Dersler\Bilgi Kartı 11\Bilgi Kartı 11\obj\x86\Debug\Bilgi_Kartı_11.Form1.resources
+C:\Users\mrt_b\Desktop\Blog\Dersler\Bilgi Kartı 11\Bilgi Kartı 11\obj\x86\Debug\Bilgi_Kartı_11.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\Dersler\Bilgi Kartı 11\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Blog\Dersler\Bilgi Kartı 11\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.exe
+C:\Users\mrt_b\Desktop\Blog\Dersler\Bilgi Kartı 11\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.pdb
+C:\Users\mrt_b\Desktop\Blog\Dersler\Bilgi Kartı 11\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\Desktop\Blog\Dersler\142 Kodbank C# Görsel Programlama 142 Minimized Maksimized Closed Kodları\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.exe
+C:\Users\mrt_b\Desktop\Blog\Dersler\142 Kodbank C# Görsel Programlama 142 Minimized Maksimized Closed Kodları\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.pdb
+C:\Users\mrt_b\Desktop\Blog\Dersler\142 Kodbank C# Görsel Programlama 142 Minimized Maksimized Closed Kodları\Bilgi Kartı 11\bin\Debug\Bilgi Kartı 11.exe
+C:\Users\mrt_b\Desktop\Blog\Dersler\142 Kodbank C# Görsel Programlama 142 Minimized Maksimized Closed Kodları\Bilgi Kartı 11\bin\Debug\Bilgi Kartı 11.pdb
+C:\Users\mrt_b\Desktop\Blog\Dersler\142 Kodbank C# Görsel Programlama 142 Minimized Maksimized Closed Kodları\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\Desktop\Blog\Dersler\142 Kodbank C# Görsel Programlama 142 Minimized Maksimized Closed Kodları\Bilgi Kartı 11\obj\x86\Debug\Bilgi_Kartı_11.Form1.resources
+C:\Users\mrt_b\Desktop\Blog\Dersler\142 Kodbank C# Görsel Programlama 142 Minimized Maksimized Closed Kodları\Bilgi Kartı 11\obj\x86\Debug\Bilgi_Kartı_11.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\Dersler\142 Kodbank C# Görsel Programlama 142 Minimized Maksimized Closed Kodları\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.csproj.GenerateResource.Cache
+F:\04 - Yazılım\04 - Form Projeleri\27 Formu Hareket Ettirme\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.exe
+F:\04 - Yazılım\04 - Form Projeleri\27 Formu Hareket Ettirme\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.pdb
+F:\04 - Yazılım\04 - Form Projeleri\27 Formu Hareket Ettirme\Bilgi Kartı 11\bin\Debug\Bilgi Kartı 11.exe
+F:\04 - Yazılım\04 - Form Projeleri\27 Formu Hareket Ettirme\Bilgi Kartı 11\bin\Debug\Bilgi Kartı 11.pdb
+F:\04 - Yazılım\04 - Form Projeleri\27 Formu Hareket Ettirme\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\27 Formu Hareket Ettirme\Bilgi Kartı 11\obj\x86\Debug\Bilgi_Kartı_11.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\27 Formu Hareket Ettirme\Bilgi Kartı 11\obj\x86\Debug\Bilgi_Kartı_11.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\27 Formu Hareket Ettirme\Bilgi Kartı 11\obj\x86\Debug\Bilgi Kartı 11.csproj.GenerateResource.Cache
